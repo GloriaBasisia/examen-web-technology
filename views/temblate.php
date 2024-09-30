@@ -64,7 +64,7 @@
                     <a class="nav-link text-white" href="#">Accueil</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-white" href="#">À propos</a>
+                    <a class="nav-link text-white" href="apropos.php">À propos</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-white" href="#">Contact</a>
